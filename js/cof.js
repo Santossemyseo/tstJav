@@ -1,4 +1,4 @@
-const button = document.querySelector(".button");
-button.addEventListener("click",(e)=>{
-    alert("aca esta ")
-});
+let img = document.querySelector(".im");
+img.addEventListener("error",()=>{
+    alert("paso un error ")
+})
