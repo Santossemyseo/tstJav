@@ -3,8 +3,8 @@
 // img.addEventListener("error",()=>{
 //     alert("")
 // })
-cons name = document.getElementById("name");
-cons mail = document.getElementById("email");
-cons sub = document.getElementById("sub");
-cons but = document.getElementById("but");
+const name = document.getElementById("name");
+const mail = document.getElementById("email");
+const but = document.getElementById("but");
+const sub = document.getElementById("sub");
 
