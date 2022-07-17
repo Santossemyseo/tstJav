@@ -1,9 +1,9 @@
 const nombre = document.getElementById("nombre")
 const mail = document.getElementById("email")
 const abut = document.getElementById("but")
-const asub = document.getElementById("sub")
+const sub = document.getElementById("sub")
 
-asub.addEventListener("click",(e)=>{
+sub.addEventListener("click",(e)=>{
     alert("hi");
 })
 
