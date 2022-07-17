@@ -4,7 +4,7 @@ const abut = document.getElementById("but")
 const asub = document.getElementById("sub")
 
 asub.addEventListener("click",()=>{
-    alert("hi")
+    alert("hi");
 })
 
 
