@@ -3,7 +3,7 @@ const mail = document.getElementById("email")
 const abut = document.getElementById("but")
 const sub = document.getElementById("sub")
 
-sub.addEventListener("click",(e)=>{
+sub.addEventListener("click",()=>{
     alert("hi");
 })
 
